@@ -1,0 +1,39 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="project.models.Projects.objects" />
+          <option value="about.models.About.objects" />
+          <option value="awards.models.Awards.objects" />
+          <option value="app.models.Education.objects" />
+          <option value="app.models.Project.objects" />
+          <option value="app.models.ToolsAndFramework.objects" />
+          <option value="app.models.Experience.objects" />
+          <option value="app.models.About.objects" />
+          <option value="app.models.Award.objects" />
+          <option value="django.db.models.fields.EmailField.islower" />
+          <option value="django.db.models.fields.EmailField.lower" />
+          <option value="logging.config" />
+          <option value="app.models.Clause.objects" />
+          <option value="app.models.AdminContact.objects" />
+          <option value="cloudinary.uploader" />
+          <option value="app.models.Address.objects" />
+          <option value="app.models.Product.objects" />
+          <option value="app.models.ProductMedia.objects" />
+          <option value="app.models.Cart.objects" />
+          <option value="app.models.ProductQuestion.objects" />
+          <option value="app.models.ProductLike.objects" />
+          <option value="app.models.RecentlyViewedProduct.objects" />
+          <option value="app.models.ProductReview.objects" />
+          <option value="app.models.FrequentlyAskedQuestion.objects" />
+          <option value="app.models.Order.objects" />
+          <option value="app.models.Transaction.objects" />
+          <option value="api.models.HomePrice.objects" />
+          <option value="rest_framework.authtoken.models.Token.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
