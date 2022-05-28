@@ -7,7 +7,7 @@ def editDistance(s1, s2):
     for col in range(n + 1):
         arr[0][col] = col
     
-    for row in range(m + 1):
+    for row in range(1, m + 1):
         arr[row][0] = row
     
     for i in range(1, m + 1):
